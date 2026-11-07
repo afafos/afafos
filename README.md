@@ -11,7 +11,7 @@ I build the data warehouse behind **T-Bank's** e-commerce and lifestyle services
 
 Alongside that, I'm doing a master's in Artificial Intelligence at **ITMO's AI Talent Hub** and taking ML to hackathons.
 
-## Impact at T-Bank
+## T-Bank
 
 <table>
   <tr>
